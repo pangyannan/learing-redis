@@ -1,4 +1,4 @@
-package cn.atomc.learing.redis.basic;
+package cn.atomc.learning.redis.basic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

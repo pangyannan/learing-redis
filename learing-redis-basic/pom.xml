@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.atomc</groupId>
-    <artifactId>learing-redis-basic</artifactId>
+    <artifactId>learning-redis-basic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>learing-redis-basic</name>
+    <name>learning-redis-basic</name>
     <description>Demo project for Spring Boot redis</description>
 
     <properties>
